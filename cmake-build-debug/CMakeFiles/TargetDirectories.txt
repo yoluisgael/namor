@@ -1,0 +1,3 @@
+C:/Users/yolui/My Drive/Programacion/ia/namor/cmake-build-debug/CMakeFiles/namor.dir
+C:/Users/yolui/My Drive/Programacion/ia/namor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yolui/My Drive/Programacion/ia/namor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
