@@ -9,6 +9,8 @@
 *   Comparación de diferentes algoritmos de búsqueda.
 *   Implementación de A* con diferentes heurísticas.
 
+![namor comparando algoritmos](https://github.com/yoluisgael/namor/blob/main/namor.jpg)
+
 ## Cómo usar
 
 1.  Clona el repositorio.
